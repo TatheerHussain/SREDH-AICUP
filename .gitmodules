@@ -19,3 +19,6 @@
 [submodule "R-07"]
 	path = R-07
 	url = https://github.com/TatheerHussain/R-07.git
+[submodule "R-08"]
+	path = R-08
+	url = https://github.com/TatheerHussain/R-08.git
