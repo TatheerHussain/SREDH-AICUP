@@ -37,7 +37,7 @@ In recent years, artificial intelligence (AI) technology has developed rapidly. 
 
 The competition attracted a total of 721 participants, constituting 291 teams. Teams played a crucial role in the competition. During the development phase, only the team leader could submit up to three runs per day to evaluate their model performance using the leaderboard. In the final testing phase, each team can submit a maximum of six runs over the course of two days. Out of the participating teams, 103 teams submitted their prediction results for the test set, resulting in 218 submissions during the final testing phase. Since there were 103 teams, the committee invited only the top 10 teams on the leaderboard. Below are the summaries of 10 team methodologies.
 
-## R-01 [R-01](./R-01@b5b17b7/)
+## R-01 [R-01](/R-01@b5b17b7)
 
 - The R-01 team developed a textual data model for clinical entity recognition using a stringent preprocessing protocol. They refined the T5-Efficient-BASE-DL2 model for computa-tional efficiency to generate text. They further structured the dataset into two training sets, one validation set, and a unique test set. For the AutoTokenizer, they used AutoModel-ForSeq2SeqLM classes from the Hugging Face library for consistency. The model's performance was assessed without gold standard annotations, highlighting the value of rule-based methods in clinical entity recognition. However, recall metrics show areas for improvement.
 
