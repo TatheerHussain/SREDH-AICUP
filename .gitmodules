@@ -22,3 +22,9 @@
 [submodule "R-08"]
 	path = R-08
 	url = https://github.com/TatheerHussain/R-08.git
+[submodule "R-09"]
+	path = R-09
+	url = https://github.com/TatheerHussain/R-09.git
+[submodule "R-10"]
+	path = R-10
+	url = https://github.com/TatheerHussain/R-10.git
