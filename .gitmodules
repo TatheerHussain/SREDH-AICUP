@@ -8,7 +8,7 @@
 	path = R-03
 	url = https://github.com/TatheerHussain/R-03.git
 [submodule "R-04"]
-	path = R-03
+	path = R-04
 	url = https://github.com/TatheerHussain/R-04.git
 [submodule "R-05"]
 	path = R-05
