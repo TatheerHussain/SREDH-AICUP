@@ -81,8 +81,3 @@ The competition attracted a total of 721 participants, constituting 291 teams. T
 - [Asia University](https://web.asia.edu.tw/) 
 
 
-<p align="center">
-  <img src="https://lh6.googleusercontent.com/S9tUDdSo5LzCrqzVnqT59S9BqySwOu0AfWdWDlOQxKtbg57CFzK51ghxWOQV9Kc5n3dy8wR1Ttxgy47RCN03quk=w16383" width="30%" />
-  <img src="https://ee.nkust.edu.tw/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhOek5qZFhobU1tUmhibWh4ZHpNemFXWnVOM0ZzYUd0bVp6bGtaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjQtMTAtMTZUMTc6MjA6NTEuNTQ4WiIsInB1ciI6ImJsb2Jfa2V5In19--0d0701c1cb4e6f0b2d7f9f001f89e32563ceff17/logo.png" width="30%" />
-  <img src="https://web.asia.edu.tw/uploads/banner_image/file/66dea8d0657ca1d1ad997a81/20240822.jpg" width="30%" />
-</p>
