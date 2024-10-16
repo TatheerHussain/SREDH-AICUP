@@ -29,11 +29,14 @@
 
 <p align="center">Innovative solutions developed by the top 10 teams to tackle the challenge of deidentifying sensitive health information (SHI). This repository showcases cutting-edge approaches leveraging Large Language Models (LLMs), machine learning, and rule-based techniques to ensure robust privacy protection while maintaining the integrity of medical data.</p>
 
-## 🧐Background
+## 🧐 Background
 
 In recent years, artificial intelligence (AI) technology has developed rapidly. Especially in the past year, companies such as OpenAI, Microsoft and Google have introduced and used their own large-scale language models in related products. These applications such as ChatGPT shown the application potential of Large Language Models (LLMs) in various fields. The application of LLM in clinical medicine is therefore regarded as the future of AI in the field of digital health, which is now a very important and evolving research area. However, when applying such AI models, ordinary users and even system or program developers often do not realize the privacy information issues when interacting with LLMs, which may lead to the risk of leaking important confidential information. In addition, if the training data used in training such large language models contains real private information (such as an individual's name, phone number, ID card number, etc.), there is a certain possibility that it will be affected by the memory capacity of the LLM. The ability to interact with users leads to the leakage of private information.
 
-## 💡Top-10 Teams Summarries.
+## Competition website link
+[Codalab Competition web Link](https://codalab.lisn.upsaclay.fr/competitions/15425?secret_key=db7687a5-8fc7-4323-a94f-2cca2ac04d39)
+
+## 💡 Top-10 Teams Summarries.
 
 The competition attracted a total of 721 participants, constituting 291 teams. Teams played a crucial role in the competition. During the development phase, only the team leader could submit up to three runs per day to evaluate their model performance using the leaderboard. In the final testing phase, each team can submit a maximum of six runs over the course of two days. Out of the participating teams, 103 teams submitted their prediction results for the test set, resulting in 218 submissions during the final testing phase. Since there were 103 teams, the committee invited only the top 10 teams on the leaderboard. 
 
@@ -69,4 +72,14 @@ The competition attracted a total of 721 participants, constituting 291 teams. T
 ## [R-10](https://github.com/TatheerHussain/R-10)
 - The R-10 team implemented a longformer model for tasks such as PPIR, NER, and TIN, addressing class distri-bution imbalances and handling overlapping text segments. They further developed a rule-based approach for TIN tasks, addressing limited data and unstructured time-related categories. The study used an ensemble learning technique to integrate five models trained on different datasets, enhancing the robustness and accuracy of entity recognition. Both models showed high preci-sion, recall, and F1 scores across most categories. The Longformer model showed variable per-formance across different categories, suggesting future iterations should focus on category-specific loss weighting and rule-based secondary processing steps.
 
+# Organizers 
 
+## Useful Links
+
+- [SREDH Consortium](https://www.sredhconsortium.org/) ![Placeholder Image](https://web.asia.edu.tw/uploads/banner_image/file/666a9d07657ca1ff33234639/20240501.jpg)
+
+- [National Kaohsiung University of Science and Technology](https://ee.nkust.edu.tw/) ![Placeholder Image](https://ee.nkust.edu.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4bac8c78a87c6470d6e81bde7efad0bf00e36768/logo.png)
+
+- [Asia University](https://web.asia.edu.tw/) ![Placeholder Image](https://lh5.googleusercontent.com/ILqmx-1Ej3-JKSe_f9QzxCo_-rsReAP34pVegUJg_529HdMVQNbCtdL1H0afS3iSO49eP-pwS0RITGq-s_PZG1k=w16383)
+
+## Image Placeholder
