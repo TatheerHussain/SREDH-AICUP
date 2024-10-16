@@ -74,12 +74,11 @@ The competition attracted a total of 721 participants, constituting 291 teams. T
 
 # Organizers 
 
-## Useful Links
+- [SREDH Consortium](https://www.sredhconsortium.org/) 
 
-- [SREDH Consortium](https://www.sredhconsortium.org/) ![Placeholder Image](https://web.asia.edu.tw/uploads/banner_image/file/666a9d07657ca1ff33234639/20240501.jpg)
+- [National Kaohsiung University of Science and Technology](https://ee.nkust.edu.tw/) 
 
-- [National Kaohsiung University of Science and Technology](https://ee.nkust.edu.tw/) ![Placeholder Image](https://ee.nkust.edu.tw/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4bac8c78a87c6470d6e81bde7efad0bf00e36768/logo.png)
+- [Asia University](https://web.asia.edu.tw/) 
 
-- [Asia University](https://web.asia.edu.tw/) ![Placeholder Image](https://lh5.googleusercontent.com/ILqmx-1Ej3-JKSe_f9QzxCo_-rsReAP34pVegUJg_529HdMVQNbCtdL1H0afS3iSO49eP-pwS0RITGq-s_PZG1k=w16383)
 
 ## Image Placeholder
